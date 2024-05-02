@@ -378,13 +378,6 @@ Criar um sorteio a partir de uma sequência de números ou de uma lista de nomes
 </ul>
 
 <hr />
-<h3>Projeção</h3>
-Configurações específicas para projeção de conteúdo na tela.<br />
-<ul>
-    <li><b>Small caps:</b> Ajustar proporção dos caracteres minúsculos transformados em maiúsculos;</li>
-</ul>
-
-<hr />
 <h3 id='telegram_features'>Recursos integrados com Telegram</h3>
 <ul>
     <li>
