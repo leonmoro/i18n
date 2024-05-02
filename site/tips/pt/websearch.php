@@ -17,10 +17,11 @@
 </p>
 
 <p>
-    Ao formatar uma letra, disponibilizarmos 3 tipos de formatação diferentes:<br />
+    Ao formatar uma letra, disponibilizarmos 4 tipos de formatação diferentes:<br />
     <br />
     • Padrão, máx 4 linhas;<br />
     • Padrão, máx 2 linhas;<br />
+    • Widescreen, máx 2 linhas;<br />
     • Panorâmico, máx 2 linhas.
 </p>
 <p>
