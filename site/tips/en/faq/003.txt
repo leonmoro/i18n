@@ -1,0 +1,10 @@
+How to use video wallpaper?
+--------
+Option 1) In the favorite bar settings, enable the display of the <b>wallpaper</b> item;
+Right click on <b> wallpaper </b> in the favorite bar, <b>edit</b>;
+In the edit window, select the video you want to use as a wallpaper and click save;
+While using the program, to end presentations, click on the <b>wallpaper</b> item (or Shift+F8) instead of pressing the ESC key. This way the video will play in the projection.
+Or use Shift+F8 to end presentation and show the wallpaper item of the favorites bar.
+Click on the item whenever you need to show it in the projection.
+
+Option 2) Play the video you want from the VLC player and leave the option: <b>repeat 1</b>.

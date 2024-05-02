@@ -1,0 +1,4 @@
+Na janela de música, o alinhamento do texto não altera a apresentação do texto nos slides.
+--------
+Esse alinhamento não influencia a exibição da letra, servindo somente para auxiliar na formatação dos parágrafos.
+O alinhamento do texto é alterado na janela de edição de Tema.

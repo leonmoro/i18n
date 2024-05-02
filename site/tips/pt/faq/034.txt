@@ -1,0 +1,11 @@
+Como desativar efeito do Windows que ao passar o mouse em cima da janela ela é exibida ao fundo?
+--------
+Acesse:
+Painel de controle;
+Sistema;
+Configurações avançadas do sistema;
+Aba avançado;
+Opção desempenho;
+Botão configurações;
+Aba efeitos visuais;
+Desative a opção <b>Habilitar o Peek</b> ou <b>Habilitar o Aero Peek</b>

@@ -1,0 +1,6 @@
+Como faço para mexer no programa no meu monitor e não aparecer no telão o que estou fazendo?
+--------
+Isso é uma configuração que precisa ser feita no Windows (modo Estender Tela).
+
+Mais detalhes sobre isso no seguinte vídeo tutorial:
+<a href='https://youtu.be/zokuJzx3hkM' target='_blank'>https://youtu.be/zokuJzx3hkM</a>

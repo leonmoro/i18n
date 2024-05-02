@@ -1,0 +1,7 @@
+Como faço para atualizar o programa?
+--------
+Ao abrir o programa com internet no computador vai aparecer uma mensagem informando que tem atualização disponível.
+É só aceitar que atualiza automaticamente.
+
+Nada do que você já tem no programa será perdido ou alterado.
+De qualquer forma, é sempre bom realizar backup dos seus dados.

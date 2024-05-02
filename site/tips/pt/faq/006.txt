@@ -1,0 +1,12 @@
+Vídeos de plano de fundo ou VLC Player ficando preto ou travando ao serem apresentados
+--------
+Baixe e instale a versão 64-bit do programa (<a href='/download.html'>baixar</a>).
+Obs.: Não é necessário desinstalar a versão atual. Os dados serão mantidos após a instalação.
+
+Caso o problema persista:
+Na aba <b>Meus Vídeos</b> você pode clicar nos "três pontinhos" de um vídeo que não está sendo executado corretamente e clicar em editar propriedades.
+Verifique qual é a resolução e a taxa de bits.
+
+Resoluções maiores ou iguais a 1920x1080 e taxa de bits (bitrate) acima de 5000 podem sobrecarregar o PC e ser a causa dos vídeos não serem executados corretamente.
+Você pode diminuir a resolução e a taxa de bits para fazer uma teste.
+Utilize cerca de 1280x720 para o tamanho e cerca de 4000 para taxa de bits.

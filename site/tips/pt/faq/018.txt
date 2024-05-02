@@ -1,0 +1,7 @@
+É possível utilizar projeção panorâmica (com mais de um datashow) com o Hoyrics?
+--------
+Projeção panorâmica é a projeção feita juntando dois ou mais projetores para formar uma "super tela larga".
+Muitas pessoas acham que não é possível realizar esse tipo de projeção com o Holyrics porque o próprio programa não disponibiliza recurso de edge blending.
+Porém a junção das telas não precisa ser feita exclusivamente pelo software de projeção, pode ser feita com qualquer outro software de terceiro ou até mesmo com hardware específico.
+
+Mais detalhes sobre esse assunto na matéria: <a href='/tips/panoramic-projection.html' target='_blank'>Projeção Panorâmica</a>

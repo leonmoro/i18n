@@ -1,0 +1,32 @@
+Set up stage view (return monitor)
+--------
+To use return monitor as standalone screen the computer must have 3 video outputs, or 2, in case of notebook.
+
+On PC:
+- one output to the user monitor;
+- one output to projector;
+- one output to stage view (return monitor).
+
+On notebook:
+- one output to projector;
+- one output to stage view (return monitor).
+
+With all cables plugged in, configure Windows with 3 screens in extended mode.
+The program will automatically identify the screens and it is possible to use return monitor.
+
+Note: Some video graphics cards, even with 3 outputs, do not allow all 3 to be used at the same time.
+Also notebook with 2 outputs that allows you to use only one at a time.
+That is, you need to test the outputs to make sure your PC or notebook supports it.
+
+Alternatives for PCs or Notebooks that don't have enough video outputs:
+- Return via wifi if the return screen is a smart tv (see <a href='#q017'>faq 17</a>).
+
+- USB/VGA adapter or USB/HDMI adapter to turn a USB output into video output.
+After plugging in the adapter and installing the drivers, you only set the extended mode display in Windows settings.
+
+Note: Check adapter specifications to see if it is compatible with your computer.
+Turning a USB output into video output can overload the computer's processor.
+
+More details about stage view (return monitor):
+<a href='http://holyrics.com/r/ytstage' target='_blank'>holyrics.com/r/ytstage</a>
+(Video in portuguese)

@@ -1,0 +1,7 @@
+Fonts installed on the computer do not appear in the program.
+--------
+In some cases it is necessary to install the font by right-clicking, <b>install for all users</b> option.
+If not, you can also add the fonts to the program installation folder:
+<b>C:\Holyrics\Holyrics\jre\lib\fonts</b>
+
+Note: You must restart the program to list the new fonts installed/added and, after restarting, with the program open, wait 30 seconds for the font list to refresh.

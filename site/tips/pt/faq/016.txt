@@ -1,0 +1,6 @@
+Consigo fazer transmissão ao vivo pelo Holyrics?
+--------
+O programa não realizada transmissão, mas é compatível com programas que fazem transmissão.
+
+<a href='https://youtu.be/0mw7nurNzds' target='_blank'>youtu.be/0mw7nurNzds</a>
+Tutorial de como funciona no <b>OBS Studio</b>, mas se aplica a qualquer tipo de software de transmissão.

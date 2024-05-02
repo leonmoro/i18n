@@ -1,0 +1,4 @@
+In the music window, text alignment does not change the presentation of text on slides.
+--------
+This alignment does not influence the display of the text, but only where you type the text.
+The text alignment changes in the Theme edit window.

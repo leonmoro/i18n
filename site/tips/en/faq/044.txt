@@ -1,0 +1,11 @@
+Support for non-Latin alphabet characters
+--------
+Enable the <b>non-Latin alphabet support</b> option so that the program interface can correctly display non-Latin characters
+
+- File menu
+- Settings
+- Miscellaneous tab
+- Support for non-Latin alphabet
+
+This setting only deals with displaying characters in the program interface (lyric editing, Bible window, etc.).
+It is also necessary to edit the themes used for projection, selecting a compatible font, for example <b>Arial Unicode MS</b>

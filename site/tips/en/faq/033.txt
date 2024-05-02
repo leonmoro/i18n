@@ -1,0 +1,14 @@
+When opening the program gives an error and it opens twice.
+--------
+With the program closed, perform the following steps and test:
+
+Right-click on the folder <b>C:/Holyrics</b>
+Properties
+Security
+Edit
+Add
+Type <b>All</b>, OK
+In the previous window, select <b>All</b> and select the checkbox <b>Full Control</b>
+Apply
+OK
+OK

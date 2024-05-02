@@ -1,0 +1,6 @@
+Change size, font color of the songs.
+--------
+Layout changes are made by editing a theme.
+
+More details about this in the tutorial:
+<a href='https://youtu.be/5HCCmg5eLNM' target='_blank'>youtu.be/5HCCmg5eLNM</a>

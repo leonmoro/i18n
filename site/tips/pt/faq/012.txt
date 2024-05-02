@@ -1,0 +1,10 @@
+Como remover o slide inicial com título e artista?
+--------
+Não é possível remover esse slide com título e artista, apenas iniciar a apresentação a partir de um determinado slide.
+
+Você pode iniciar a apresentação da música com <b>Shift+F5</b> que vai iniciar a partir do primeiro parágrafo da letra.
+Você pode inverter as teclas de atalho <b>F5</b> e <b>Shift+F5</b> no menu arquivo, configurações, aba diversos.
+Assim o <b>F5</b> é que vai iniciar do primeiro parágrafo da letra.
+
+Outra possibilidade é dar um clique duplo no parágrafo da letra na janela principal.
+Ao dar um clique duplo, a apresentação inicia a partir do slide clicado.

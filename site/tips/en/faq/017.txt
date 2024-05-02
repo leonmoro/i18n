@@ -1,0 +1,7 @@
+Turn a notebook or smart TV into a stage view (return screen)
+--------
+In the computer software, access tools menu, plugin Holyrics.
+Click start server.
+Access one of the stage view links that appear in this plugin window in the device browser, preferably a link that ends with <b>text</b>.
+This page (link) in the device browser displays the program slides.
+The device and computer with hologram letters must be on the same network.

@@ -1,0 +1,6 @@
+Create or edit slide theme/layout.
+--------
+In the main window, in the lower right corner, double click on the theme to edit it
+
+More details:
+<a href='https://youtu.be/5HCCmg5eLNM' target='_blank'>youtu.be/5HCCmg5eLNM</a>

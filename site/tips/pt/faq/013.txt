@@ -1,0 +1,19 @@
+Problema ao conectar aplicativo celular com notebook/computador.
+Aplicativo apresentando erro de falha de conexão - Holyrics não encontrado na rede.
+--------
+<b>Android</b>
+Geralmente a sincronização é automática.
+Desde que o computador e o celular estejam na mesma rede wifi.
+Qualquer problema na comunicação, clique no botão resolver e siga as orientações.
+Após ler o qrcode, caso apresente falha de <b>PING</b>, na maioria dos casos o problema é:
+- o celular e o computador não estão na mesma rede;
+- ou o roteador da rede está bloqueando a comunicação, através de um firewall ou funcionalidade chamada <b>client isolation</b>. Acesse as configurações do roteador para tentar solucionar o problema.
+
+Se aparecer uma mensagem de erro ao clicar para <b>abrir</b> a janela de qrcode no computador, geralmente o problema é o <b>firewall do antivírus</b> instalado no computador que está bloqueando o programa.
+Adicione o programa na lista de exceções do <b>firewall do antivírus</b>.
+
+<b>iOS</b>
+No programa do computador, acesse menu ferramentas, alterar endereço webservice;
+Digite o IP que aparecer no campo <b>IP do computador</b>.
+Se continuar com erro, no programa do computador abra o menu ajuda, falha de conexão app, clique em sim se pedir pra executar um código;
+Após aparecer a janela com qrcode, pode fechá-la e fazer um teste novamente pelo app.

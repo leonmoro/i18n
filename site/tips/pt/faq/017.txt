@@ -1,0 +1,7 @@
+Transformar um notebook ou Smart TV em uma tela de retorno
+--------
+No programa do computador, acesse menu ferramentas, plugin Holyrics.
+Clique em iniciar servidor.
+Acesse um dos links stage view que aparecem nessa janela de plugin no navegador do dispositivo, de preferência um link que termina com <b>text</b>.
+Essa página (link) no navegador do dispositivo vai exibir os slides do programa.
+O dispositivo e o computador com Holyrics precisam estar na mesma rede.

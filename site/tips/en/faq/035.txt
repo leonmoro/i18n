@@ -1,0 +1,4 @@
+I can't find music by searching a excerpt of song
+--------
+By default, the search does not consider excerpts of the song.
+To search for excerpts, select the <b>lyrics</b> checkbox below the search field.

@@ -1,0 +1,10 @@
+Alterar o tema/layout da projeção da Bíblia
+--------
+A Bíblia utiliza um Tema para exibir os versículos, assim como a letra de música.
+Então para aumentar o tamanho da fonte da Bíblia é só editar o Tema utilizado na Bíblia.
+
+No canto inferior esquerdo da janela da Bíblia há um botão para selecionar um Tema.
+Clique nesse botão e clique com o botão direito no Tema que quer editar.
+
+Mais detalhes:
+<a href='http://holyrics.com/r/yt3' target='_blank'>holyrics.com/r/yt3</a>

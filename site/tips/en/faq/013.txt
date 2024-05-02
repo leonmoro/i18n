@@ -1,0 +1,19 @@
+Problem connecting mobile app with notebook/computer.
+Application showing connection failure error - Holyrics not found on network.
+--------
+<b>Android</b>
+Usually synchronization is automatic.
+As long as your computer and phone are on the same wifi network.
+Any problems communicating, click the solve button and follow the directions.
+After reading qrcode, if the <b>PING</b> item fails, in most cases the problem is:
+- phone and computer are not on the same network;
+- or the network router is blocking communication through a firewall or feature called <b>client isolation</b>. Access your router settings to try to solve the problem.
+
+If an error message appears when you click to open the qrcode window on your computer, the problem is usually the antivirus firewall installed on the computer blocking the software.
+Add the program to the <b>antivirus firewall</b> exception list.
+
+<b>iOS</b>
+In computer software, go to tools menu, change webservice address;
+Enter the IP that appears in the <b>Computer IP</b> field.
+If continue with error, in the computer program open the help menu, app connection failure, click yes if asked to execute a code;
+After a window with qr code appears, you can close it and try again from the app.

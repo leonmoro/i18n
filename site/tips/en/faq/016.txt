@@ -1,0 +1,7 @@
+Can I do live streaming on Holyrics?
+--------
+The program does not streaming, but is compatible with programs that streaming;
+
+<a href='https://youtu.be/zS7528-YrOE' target='_blank'>youtu.be/zS7528-YrOE</a> (Portuguese)
+<a href='https://youtu.be/0mw7nurNzds' target='_blank'>youtu.be/0mw7nurNzds</a> (Portuguese)
+Tutorial: how it Works in <b>OBS Studio</b>, but applies to any type of streaming software.

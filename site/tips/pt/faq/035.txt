@@ -1,0 +1,4 @@
+Não encontro a música pesquisando um trecho da música
+--------
+Por padrão, a pesquisa não considera trechos da música.
+Para buscar por trechos, marque a caixa de seleção <b>letras</b> logo abaixo do campo de pesquisa.

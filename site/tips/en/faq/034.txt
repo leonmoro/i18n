@@ -1,0 +1,11 @@
+How to disable Windows effect that when hovering over the window it is displayed in the background?
+--------
+Access:
+Control Panel;
+System;
+Advanced System Settings;
+Advanced tab;
+Performance option;
+Settings button;
+Visual effects tab;
+Disable the <b>Enable Peek</b> option or <b>Enable Aero Peek</b> option

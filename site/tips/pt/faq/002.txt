@@ -1,0 +1,6 @@
+Alterar tamanho, cor da fonte das letras.
+--------
+Alterações de layout são feitas na parte de temas do programa.
+
+Mais detalhes sobre isso no tutorial:
+<a href='http://holyrics.com/r/yt3' target='_blank'>holyrics.com/r/yt3</a>

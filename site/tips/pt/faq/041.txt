@@ -1,0 +1,17 @@
+O link de acesso do plugin não funciona em outro computador.
+--------
+Confira se o botão <b>iniciar servidor</b> está ativado.
+Confira se os dois dispositivos estão na mesma rede.
+
+Se o link funcionar no navegador no mesmo computador onde o plugin está aberto, então há algum <b>bloqueio</b> na comunicação da rede local.
+
+Pode ser:
+<ul><li>Firewall do sistema operacional;</li>
+<li>Firewall do antivírus;</li>
+<li>Firewall do roteador da rede local;</li>
+<li>Configuração chamada <b>client isolation</b> no roteador da rede local;</li>
+<li>Etc.</li></ul>
+Liberação do firewall para Windows: <a href='/solutions/firewall.php' target='_blank'>tutorial</a>
+
+Para todas as outras opções, existem vários antivírus e vários modelos de roteador, cada um com uma configuração diferente.
+É necessário procurar na internet o procedimento para verificar as configurações para o antivírus e roteador utilizado na sua rede local.

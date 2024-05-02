@@ -1,0 +1,4 @@
+Appear <b>disabled streaming</b> on phone
+--------
+Enable the streaming on the computer:
+<b>&nbsp;&nbsp;File menu</b> -> <b>Settings</b>.

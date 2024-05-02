@@ -1,0 +1,7 @@
+As fontes instaladas no computador não aparecem no programa.
+--------
+Em alguns casos é necessário instalar a fonte clicando com o botão direito do mouse, opção <b>instalar para todos os usuários</b>;
+Caso não resolva, é possível também adicionar as fontes na pasta de instalação do programa:
+<b>C:\Holyrics\Holyrics\jre\lib\fonts</b>
+
+Obs.: É necessário reiniciar o programa para listar as novas fontes instaladas/adicionadas e, após reiniciar, com o programa aberto, aguarde 30 segundos para a lista de fontes ser atualizada.

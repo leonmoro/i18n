@@ -1,0 +1,6 @@
+How do I use the software on my monitor and not appear on the projection what I'm doing?
+--------
+This is a setting that needs to be done in the operating system (Extend Screen mode)
+
+More details on this in the following video tutorial (Windows):
+<a href='https://youtu.be/zokuJzx3hkM' target='_blank'>https://youtu.be/zokuJzx3hkM</a>

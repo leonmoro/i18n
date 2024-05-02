@@ -1,0 +1,5 @@
+I started playing a song on my phone and I can't control the slides through my computer.
+--------
+The presentation window opened by the mobile phone in an auxiliary monitor is independent of the main window.
+Drag the mouse to the projection screen and click with any mouse button anywhere on the screen.
+Once this is done, the window will receive the focus of the application and it will be possible to use commands from the computer keyboard to control the presentation.

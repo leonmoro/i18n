@@ -1,0 +1,11 @@
+Compatibilidade com caracteres de alfabeto não latino
+--------
+Ative a opção <b>suporte para alfabeto não latino</b> para que a interface do programa possa exibir corretamente caracteres não latinos
+
+- Menu arquivo 
+- Configurações 
+- Aba diversos 
+- Suporte para alfabeto não latino
+
+Essa configuração lida apenas com a exibição dos caracteres na interface do programa (edição de letra, janela da Bíblia, etc).
+É necessário também editar os temas utilizados para projeção, selecionando uma fonte compatível, por exemplo <b>Arial Unicode MS</b>

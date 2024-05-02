@@ -1,0 +1,4 @@
+Executar links do YouTube.
+--------
+Não é possível executar vídeos do Youtube no programa por questões de políticas do YouTube.
+A implementação dessa funcionalidade no programa também não está prevista, pois uma solução que fique de acordo com as políticas do YouTube iria executar anúncios, e nós do Holyrics não concordamos em implementar uma funcionalidade que pode executar anúncios indevidos durante um culto/evento.

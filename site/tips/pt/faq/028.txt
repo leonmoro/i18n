@@ -1,0 +1,9 @@
+Como fazer o backup dos meus dados no programa?
+--------
+Copie a pasta:
+<b>C:/Holyrics</b>
+De um computador para outro, ou para um pendrive, HD externo, etc.
+Para restaurar os dados é só copiar os arquivos para o mesmo lugar.
+Faça este procedimento com o programa fechado.
+
+Ou faça backup utilizando a opção do menu ferramentas, backup, exportar/importar.

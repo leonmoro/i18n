@@ -1,0 +1,16 @@
+É possível colocar a imagem de uma câmera/webcam no Holyrics?
+--------
+<b>Câmera IP</b>
+Veja nas configurações da câmera o link de acesso dela para colar no VLC player do Holyrics.
+Por exemplo: http://192.168.0.123:8080/video
+Insira o link no ícone de "globo", no VLC player, perto do volume.
+Após inserir o link, pressione o ícone <b>play</b> para executar na projeção.
+
+<b>WebCam</b>
+Utilize o atalho nos "3 pontinhos" do VLC Player, opção <b>webcam</b>:
+
+<b>Obs.:</b> A execução de vídeos de câmera pode ter muito atraso entre a imagem recebida e a execução na projeção.
+Uma alternativa recomendada é utilizar um programa específico de captura para exibir a imagem da câmera na projeção.
+Um programa que vai ser mais eficiente e ter menos atraso.
+E então você utiliza o Holyrics apenas para exibir o texto por cima do vídeo.
+Um exemplo de programa seria <b>OBS Studio</b>.

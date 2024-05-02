@@ -1,0 +1,17 @@
+Lentidão ao abrir o programa ou projetar vídeos/imagens.
+Alguns temas não abrem ou ficam desfigurados.
+Programa fica lento, memória cheia.
+--------
+Não é só falta de memória que faz o programa travar, pode ser o processador de baixo desempenho, falta de placa de vídeo, antivírus, vídeos pesados.
+
+As possíveis configurações para deixar o funcionamento do programa melhor:
+<ul>
+  <li>Menu arquivo, configurações, desativar fade in/out.</li>
+  <li>Menu arquivo, configurações de exibição, desativar efeitos de transição.</li>
+  <li>Não utilizar tamanho de fonte acima de 20 nos temas.</li>
+  <li>Adicionar a pasta do programa na lista de exceções do antivírus instalado no computador e/ou Windows defender: <b>C:/Holyrics</b></li>
+  <li>Diminuir a resolução da tela de projeção, quanto menor, mais leve.</li>
+  <li>Executar o programa clicando com o botão direito, <b>executar como administrador</b>.</li>
+  <li>Se o computador não tiver boa configuração, evite utilizar tema de vídeo. É melhor utilizar tema com imagem e o programa funcionar bem.</li>
+</ul>
+Além dessas alternativas, só fazendo upgrade do hardware do computador.

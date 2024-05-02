@@ -1,0 +1,6 @@
+Add more videos and/or images as background to the program.
+--------
+You can add more backgrounds from the Theme menu, background.
+
+Mais detalhes sobre isso no vídeo tutorial sobre Temas:
+<a href='https://youtu.be/5HCCmg5eLNM' target='_blank'>youtu.be/5HCCmg5eLNM</a>

@@ -1,0 +1,19 @@
+É possível instalar/usar o programa em um HD externo ou pendrive? (WINDOWS)
+--------
+Sim, o programa é portátil.
+A instalação do programa, por padrão, é na pasta <b>C:\Holyrics</b>.
+Mas, após instalado, você pode copiar essa pasta para qualquer lugar que vai funcionar normalmente.
+Basta abrir o arquivo <b>Holyrics.exe</b> que fica dentro da pasta copiada.
+Inclusive é possível executar a partir do dispositivo externo mesmo que já exista o programa instalado no computador.
+O programa sempre irá utilizar os dados da subpasta de onde ele está localizado.
+Então se você executar o arquivo <b>Holyrics.exe</b> da pasta Holyrics de dentro do dispositivo externo, os arquivos utilizados são os que estão dentro dessa pasta no dispositivo externo, independentemente dos dados que estão na pasta Holyrics instalada no computador.
+Qualquer alteração que fizer no programa aberto pelo dispositivo externo será salva e mantida no dispositivo externo.
+
+Considerações:
+• A velocidade do dispositivo pode influenciar no desempenho do programa, então, de preferência, utilize um HD externo numa porta USB 3.0, ou um pendrive que tenha boa velocidade de leitura e escrita.
+
+• O computador de destino pode não ter os requisitos mínimos para executar o programa.
+Nesses casos, de preferência, utilize fundos estáticos (imagens ou cores sólidas), pois o computador pode não suportar utilizar vídeos de plano de fundo.
+
+• De preferência, execute o programa clicando com o botão direito do mouse em cima do arquivo <b>Holyrics.exe</b> e a opção <b>executar como administrador</b>.
+Isso pode melhorar o desempenho e evitar possíveis erros de falta de permissão, visto que é um programa sendo executado a partir de um dispositivo externo.

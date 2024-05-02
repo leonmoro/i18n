@@ -1,0 +1,12 @@
+Background videos or VLC Player display "black screen" or crashing when presented
+--------
+Download and install the 64-bit version of the program (<a href='/download.html'>download</a>).
+Note: It is not necessary to uninstall the current version. The data will be kept after installation.
+
+If the problem persists:
+In the <b>My Videos</b> tab you can click on the "three dots" of a video that is not playing correctly and click on edit properties.
+Check the resolution and the bitrate.
+
+Resolutions greater than or equal to 1920x1080 and bitrates above 5000 may overload the PC and cause videos not to play correctly.
+You can lower the resolution and bitrate to make a test.
+Use about 1280x720 for size and about 4000 for bitrate.

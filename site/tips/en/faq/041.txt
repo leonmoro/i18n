@@ -1,0 +1,17 @@
+The plugin access link does not work on another computer.
+--------
+Make sure the <b>start server</b> button is enabled.
+Make sure the two devices are on the same network.
+
+If the link works in the browser on the same computer where the plugin is open, there is a block in the communication of the local network.
+
+Can be:
+<ul><li>Operating system firewall;</li>
+<li>Antivirus firewall;</li>
+<li>LAN router firewall;</li>
+<li>Configuration called <b>client isolation</b> on the LAN router;</li>
+<li>etc.</li></ul>
+Firewall release for Windows: <a href='/solutions/firewall.php' target='_blank'>tutorial</a>
+
+For all other options, there are several antivirus and router models, each with a different configuration.
+It is necessary to search the internet for the procedure to check the settings for the antivirus and router used on your local network.

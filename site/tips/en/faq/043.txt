@@ -1,0 +1,10 @@
+[Linux] Error searching songs on the internet
+--------
+<b>javax.net.ssl.SSLHandshakeException:
+sun.security.validator.ValidatorException: No trusted certificate found</b>
+
+Download the file <a href='https://www.holyrics.com.br/download/file/cacerts'>cacerts</a>
+And paste in the folder:
+<code>/opt/Holyrics/Holyrics/jre/lib/security/</code>
+
+Open or restart the program and test

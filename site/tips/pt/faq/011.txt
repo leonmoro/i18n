@@ -1,0 +1,30 @@
+Configurar monitor de retorno/palco
+--------
+Para utilizar monitor de retorno como tela independente o computador precisa ter 3 saídas de vídeo, ou 2, no caso de notebook.
+
+No PC:
+- uma saída para o monitor do usuário;
+- uma para a projeção;
+- uma para o retorno.
+
+No notebook:
+- uma saída pra a projeção
+- uma saída para o retorno.
+
+Com todos os cabos ligados, configure o Windows com as 3 telas em modo estendido.
+Assim o programa identifica automaticamente as telas e é possível utilizar monitor de retorno.
+
+Obs.: Tem placa de vídeo que, mesmo com 3 saídas, não permite utilizar as 3 ao mesmo tempo.
+E também notebook com 2 saídas que só permite utilizar uma de cada vez.
+Ou seja, é necessário testar as saídas para ter certeza de que o PC ou notebook dá suporte para isso.
+
+Alternativas para PCs ou notebooks que não têm saídas de vídeo suficientes:
+- Retorno via wifi, caso a tela de retorno seja uma smart tv (ver <a href='#q017'>faq 17</a>).
+
+- Adaptador USB/VGA ou USB/HDMI para transformar uma saída USB em saída de vídeo.
+Após conectar o adaptador e instalar os drivers, só configurar a tela em modo estendido nas configurações do Windows.
+Obs.: Conferir as especificações do adaptador para saber se é compatível com o micro.
+Transformar uma saída USB em saída de vídeo pode sobrecarregar o processador do micro.
+
+Mais detalhes sobre como funciona monitor de retorno no programa:
+<a href='http://holyrics.com/r/ytstage' target='_blank'>holyrics.com/r/ytstage</a>

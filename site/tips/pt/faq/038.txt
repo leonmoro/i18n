@@ -1,0 +1,4 @@
+Aparece <b>Transmissão desativada</b> no celular
+--------
+Ative a transmissão no computador pelo menu:
+<b>&nbsp;&nbsp;Arquivo</b> -> <b>Configurações</b>.

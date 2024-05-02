@@ -1,0 +1,7 @@
+Requirements for using Holyrics
+--------
+Processor 2.5GHz
+4GB RAM memory
+Any video graphics card
+
+SSD is a big differential

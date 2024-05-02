@@ -1,0 +1,7 @@
+How do I update the program?
+--------
+When you open the program with internet on your computer a message will appear stating that you have an update available.
+Accept that it updates automatically.
+
+Nothing you already have a program will be lost or changed.
+Anyway, it's always good to backup your data.

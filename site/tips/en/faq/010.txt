@@ -1,0 +1,4 @@
+Different theme setting for stage view (return monitor).
+--------
+More details (Video in portuguese):
+<a href='http://holyrics.com/r/ytstage' target='_blank'>holyrics.com/r/ytstage</a>

@@ -1,0 +1,16 @@
+Slow opening the program or projecting videos/images.
+Some themes do not open or are disfigured.
+Program slows down, memory full.
+--------
+Not only is the memory shortage that causes the program to crash, it may be the low performance processor, lack of graphics card, antivirus, heavy video.
+
+Possible settings to make program work better:
+<ul>
+  <li>File menu, settings, disable fade in/out.</li>
+  <li>File menu, display settings, disable transition effects.</li>
+  <li>Do not use font size over 20 in themes.</li>
+  <li>Add the program folder to the list of antivirus exceptions installed on your computer and/or Windows Defender: <b>C:/Holyrics</b></li>
+  <li>Decrease projection screen resolution, the smaller the lighter.</li>
+  <li>If your computer is not properly configured, avoid using video theme. It's best to use theme with image and the program works well.</li>
+</ul>
+In addition to these alternatives, only upgrading the computer hardware.

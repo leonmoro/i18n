@@ -1,0 +1,10 @@
+Change Bible projection theme/layout
+--------
+The Bible uses a Theme to display verses.
+So to increase the font size of the Bible just edit the Theme used in the Bible.
+
+In the lower left corner of the Bible window is a button to select a Theme.
+Click this button and right-click the Theme you want to edit.
+
+More details:
+<a href='https://youtu.be/5HCCmg5eLNM' target='_blank'>youtu.be/5HCCmg5eLNM</a>

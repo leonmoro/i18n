@@ -1,0 +1,14 @@
+Ao abrir o programa dá um erro e ele abre duas vezes.
+--------
+Com o programa fechado, execute os passos a seguir e faça um teste:
+
+Clique com o botão direito do mouse na pasta <b>C:/Holyrics</b>
+Propriedades
+Segurança
+Editar
+Adicionar
+Digite <b>Todos</b>, OK
+Na janela anterior, selecione <b>Todos</b> e marque o box <b>Controle Total</b>
+Aplicar
+OK
+OK

@@ -1,0 +1,10 @@
+How to remove the initial slide with title and artist?
+--------
+Unable to remove slide with title and artist, only start the presentation from a particular slide.
+
+You can start the song presentation with <b>Shift+F5</b> which will start from the first paragraph of the lyrics.
+You can reverse the shortcut keys <b>F5</b> and <b>Shift+F5</b> in the File menu, Settings, several tab.
+So <b>F5</b> will start from the first paragraph of the song.
+
+Another possibility is to double-click the song paragraph in the main window.
+Double-clicking the presentation starts from the clicked slide.

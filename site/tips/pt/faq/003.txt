@@ -1,0 +1,9 @@
+Como utilizar papel de parede (Wallpaper) de vídeo?
+--------
+Opção 1) Nas configurações da barra de favoritos, ative a exibição do item <b>wallpaper</b>;
+Clique com o botão direito em cima do item <b>wallpaper</b> na barra de favoritos, <b>editar</b>;
+Na janela de edição, selecione o vídeo que deseja utilizar como papel de parede e clique em salvar;
+Durante o uso do programa, para encerrar as apresentações, clique no item <b>wallpaper</b> (ou Shift+F8) em vez de pressionar a tecla ESC. Dessa forma o vídeo será executado na projeção.
+Clique no item sempre que precisar executá-lo na projeção.
+
+Opção 2) Execute o vídeo que deseja pelo VLC player e deixe na opção repetir 1.

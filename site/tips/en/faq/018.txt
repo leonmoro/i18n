@@ -1,0 +1,7 @@
+Is it possible to use panoramic projection (with more than one datashow) with Hoyrics?
+--------
+Panoramic projection is the projection made by joining two or more projectors to form a "super wide screen".
+Many people believe that this type of projection is not possible with Holyrics because the program itself does not provide edge blending capability.
+However, the screens do not have to be joined exclusively by projection software, but can be done with any third party software or even with specific hardware.
+
+More details on this subject in the article: <a href='/tips/panoramic-projection.html' target='_blank'>Panoramic Projection</a>

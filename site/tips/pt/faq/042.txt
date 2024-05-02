@@ -1,0 +1,6 @@
+LoadLibrary failed with error 126
+--------
+"LoadLibrary failed with error 126: Não foi possível encontrar o módulo especificado"
+
+Esse erro está geralmente relacionado aos drivers de vídeo genéricos para gráficos AMD.
+Atualize seus drivers pelo site oficial da fabricante.

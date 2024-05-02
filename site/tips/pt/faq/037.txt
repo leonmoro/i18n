@@ -1,0 +1,5 @@
+Iniciei a apresentação de uma letra pelo celular e não consigo passar os slides pelo computador.
+--------
+A janela de apresentação aberta pelo celular em um monitor auxiliar é independente da janela principal.
+Arraste o mouse até a tela da projeção e dê um clique com qualquer botão do mouse em qualquer parte da tela.
+Após feito isso, a janela receberá o foco da aplicação e será possível utilizar os comandos do teclado do computador para controlar a apresentação.

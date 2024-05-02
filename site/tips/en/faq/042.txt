@@ -1,0 +1,6 @@
+LoadLibrary failed with error 126
+--------
+"LoadLibrary failed with error 126: The module could not be found"
+
+The cause of the error is usually the installation of generic AMD video drivers.
+Update the video card drivers through the official website.

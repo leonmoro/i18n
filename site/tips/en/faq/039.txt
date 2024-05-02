@@ -1,0 +1,19 @@
+Is it possible to install/use the program on an external hard drive or pen drive? (WINDOWS)
+--------
+Yes, the program is portable.
+The program installation by default is in the <b>C:\Holyrics</b> folder.
+But once installed, you can copy this folder to anywhere that will work normally.
+Just open the <b>Holyrics.exe</b> file that is inside the copied folder.
+You can even run from the external device even if the program already installed on your computer.
+The program will always use the subfolder data from where it is located.
+So if you run the <b>Holyrics.exe</b> file from the Holyrics folder from inside the external device, the files used are the ones inside that folder on the external device, regardless of the data in the Holyrics folder installed on the computer.
+Any changes you make to the program opened by the external device will be saved and kept on the external device.
+
+Considerations:
+• Device speed may influence program performance, so preferably use an external hard drive in a USB 3.0 port, or a flash drive that has good read and write speed.
+
+• The destination computer may not have the minimum requirements to run the program.
+In such cases, preferably use static backgrounds (images or solid colors) as the computer may not support using background videos.
+
+• Preferably run the program by right-clicking on the file <b>Holyrics.exe</b> and the option <b>run as administrator</b>.
+This can improve performance and prevent possible miss-permission errors as it is a program running from an external device.

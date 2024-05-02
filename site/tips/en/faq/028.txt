@@ -1,0 +1,9 @@
+How to backup my data in the program?
+--------
+Copy the folder:
+<b>C:/Holyrics</b>
+From computer to another, or to a USB, external HD, etc.
+To restore the data just copy the files to the same folder.
+Do this with the closed program.
+
+Or backup using a tools menu option, backup, export/import
