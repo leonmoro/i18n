@@ -648,11 +648,6 @@ Para fazer com que a descrição refrão seja sempre identificada pelo programa 
 - Selecione a opção aliases &gt; adicionar e adicione o nome refrão.<br>
 
 <hr />
-<h3>Portabilidade</h3>
-O programa é portátil, pode ser movido para outro HD e até para dispositivos externos.<br>
-(<a href='/faq#q039' target='_blank'>Saiba mais</a>)<br>
-
-<hr />
 <h3>Tema/plano de fundo (automatização)</h3>
 (menu tema, automatização)<br />
 Criar regras para definir um tema ou plano de fundo dinamicamente para os slides de uma apresentação.<br />
