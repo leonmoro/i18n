@@ -256,7 +256,7 @@ Configurações independentes para cada tela do sistema
         Alterar a versão da Bíblia exibida na respectiva tela<br>
         É possível definir que determinada tela mostre sempre a versão 2 da janela da Bíblia, permitindo exibir versões diferentes em telas diferentes
     </li>
-    <li>Alterar a <a href='multiple_language'>tradução</a> exibida na respectiva tela</li>
+    <li>Alterar a <a href='/tips/multiple_languages.html' target='_blank'>tradução</a> exibida na respectiva tela</li>
 </ul>
 
 <hr />
