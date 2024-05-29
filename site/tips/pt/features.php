@@ -256,7 +256,7 @@ Configurações independentes para cada tela do sistema
         Alterar a versão da Bíblia exibida na respectiva tela<br>
         É possível definir que determinada tela mostre sempre a versão 2 da janela da Bíblia, permitindo exibir versões diferentes em telas diferentes
     </li>
-    <li>Alterar a <a href='multiple_language'>tradução</a> exibida na respectiva tela</li>
+    <li>Alterar a <a href='/tips/multiple_languages.html' target='_blank'>tradução</a> exibida na respectiva tela</li>
 </ul>
 
 <hr />
@@ -646,11 +646,6 @@ Para fazer com que a descrição refrão seja sempre identificada pelo programa 
 - Acesse as configurações da descrição do slide (configurações de exibição);<br>
 - Clique nos 3 pontinhos da descrição coro;<br>
 - Selecione a opção aliases &gt; adicionar e adicione o nome refrão.<br>
-
-<hr />
-<h3>Portabilidade</h3>
-O programa é portátil, pode ser movido para outro HD e até para dispositivos externos.<br>
-(<a href='/faq#q039' target='_blank'>Saiba mais</a>)<br>
 
 <hr />
 <h3>Tema/plano de fundo (automatização)</h3>
